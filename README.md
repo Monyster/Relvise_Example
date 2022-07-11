@@ -1,2 +1,2 @@
-# Project1
-My first project as a full stack developer
+# Relvise
+My first project as a Frontend Developer
